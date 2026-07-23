@@ -37,7 +37,9 @@ This is where you build with us.
 | Headless leads examples | [github.com/The-Bunch/leads](https://github.com/The-Bunch/leads) |
 | npm packages | [@hello-bill/sdk](https://www.npmjs.com/package/@hello-bill/sdk) · [@hello-bill/node](https://www.npmjs.com/package/@hello-bill/node) |
 
-Sandbox credentials give you a full production-shape environment (`sb_*` keys, strict realm isolation) — ask your partner contact, and you're minutes from a first session.
+**Access comes with partnership.** Everything above runs against the live Partner API, and credentials are issued per partner — agreement in place, partner manager assigned, sandbox keys (`sb_*`, strict realm isolation) handed to your team. From there you're minutes from a first session.
+
+Not a partner yet? If your platform sits in the moving journey — lettings, estate agency, conveyancing, relocation — we should talk: [partnerships@hellobill.com](mailto:partnerships@hellobill.com)
 
 ---
 
