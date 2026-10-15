@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/The-Bunch/.github/main/profile/assets/hellobill-logo-inverse.svg">
-  <img src="https://raw.githubusercontent.com/The-Bunch/.github/main/profile/assets/hellobill-logo-primary.svg" alt="hellobill" width="320">
+  <img src="https://raw.githubusercontent.com/The-Bunch/.github/main/profile/assets/hellobill-logo-primary.svg" alt="helloBill" width="320">
 </picture>
 
 ### Your life admin, sorted.
@@ -16,7 +16,7 @@ This is where you build with us.
 
 </div>
 
-## Build with hellobill
+## Build with helloBill
 
 **Embed the whole journey.** Drop the move-in flow into your product — discovery, product selection, Letter of Authority, account creation — themed to your brand or ours. [`@hello-bill/sdk`](https://www.npmjs.com/package/@hello-bill/sdk) in the browser, [`@hello-bill/node`](https://www.npmjs.com/package/@hello-bill/node) on your server; auth, retries and idempotency handled.
 → [Embed SDK integration guide](https://hellobill.app/integrations/sdk)
@@ -44,5 +44,5 @@ Not a partner yet? If your platform sits in the moving journey — lettings, est
 ---
 
 <div align="center">
-<sub>Made by <a href="https://hellobill.com">hellobill</a> · your life admin, sorted · operated by The Bunch Group</sub>
+<sub>Made by <a href="https://hellobill.com">helloBill</a> · your life admin, sorted</sub>
 </div>
